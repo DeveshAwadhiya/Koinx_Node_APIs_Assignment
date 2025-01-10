@@ -9,6 +9,10 @@ This project provides a Node.js backend that retrieves real-time cryptocurrency 
 - **MongoDB**: Database for storing cryptocurrency data.
 - **Axios**: For making external API requests.
 
+## Live Application
+You can access the live application here:  
+[Live Application Link](https://node-js-koinx.de.r.appspot.com)
+
 ## Setup Instructions
 1. **Clone the repository**:
     ```bash
